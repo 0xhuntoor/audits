@@ -16,7 +16,6 @@ Finally, I give the sponsor (protocol developers) my view of the protocol codeba
 
 **NOTE:**
 - Some types of protocols I do not accept can be found [here](#protocols-i-do-not-accept).
-- To know how much it will cost to audit your protocol, check this [link](#pricing-and-duration).
 
 ### Auditing Phase
 This is the longest process. If we reach an agreement on the price and duration, the auditing process starts as follows:
@@ -33,21 +32,6 @@ After fixing the issues, I make another audit of the protocol to check the issue
 - Confirm if I see that the protocol is safe to go for Mainnet or if another audit is better before launching.
 
 This is how the auditing process occurs. Feel free to drop a message, and I will be more than happy to secure the protocol.
-
----
-
-## Duration
-
-The duration is not a constant period for all protocols with the same SLOCs, as complexity and conditions vary. But in normal cases, here is a table of the durations of the protocol according to the SLOC, where it should not exceed these periods.
-
-|SLOC|Duration|
-|:--:|:--------:|
-| SLOC <= 500 | 4 days|
-| 1000 >= SLOC > 500| 7 days|
-| 1500 >= SLOC > 1000| 10 days|
-| 2000 >= SLOC > 1500| 14 days|
-
-This duration may change from one protocol to another, but it is a good approximation.
 
 ---
 
